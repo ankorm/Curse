@@ -8,3 +8,7 @@ ___sudents_tasks/
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# контрольные решения нейросети (для сравнения со студенческими), не публикуются
+task-01.ipynb
+gpt-samples.ipynb
