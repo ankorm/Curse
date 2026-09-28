@@ -1,0 +1,10 @@
+# работы студентов: в открытый репозиторий не публикуются
+___sudents_tasks/
+*_задание*.ipynb
+
+# служебные файлы окружения и IDE
+.venv/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
